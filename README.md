@@ -1,4 +1,6 @@
 # collaborative-filtering-using-Netflix-dataset
+
+## Details can be found on my [website](https://petrichor1998.github.io/Projects/)
 The problem in hw3.1.pdf has been implemented below in the code file in hw3.1.zip.
 
 Submitted by Parth Padalkar UTD ID = 2021473758
